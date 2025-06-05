@@ -4,6 +4,9 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        for(int i = 0; i < 4; i++) {
+            System.out.println("learning git");
+        }
         System.out.println("main branch");
         for(int i = 0; i < 4; i++) {
             System.out.println("learning git");
